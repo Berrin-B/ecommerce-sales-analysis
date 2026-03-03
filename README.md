@@ -81,9 +81,9 @@ Below are the snapshots captured from the live dashboard. These visuals were tak
 
 ## 👥 Project Team
 
-- **Şafak Şenel**
-- **Mihrinur İlunt**
-- **Berrin Bilgin**
+- **Şafak Şenel** : Dashboard Design and KPI Visualization
+- **Mihrinur İlunt** : Revenue Prediction Model Development and Model Performance Evaluation
+- **Berrin Bilgin** : Data Cleaning, Exploratory Data Analysis (EDA), and Trend Analysis
 
 ## 📄 License
 
